@@ -1,2 +1,2 @@
-# stock-prediction
+# Stock-prediction
 A small data-driven project exploring stock price prediction using historical data.
